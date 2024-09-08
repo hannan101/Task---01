@@ -1,0 +1,27 @@
+[
+  {
+      "name": "Apple",
+      "color": "Red",
+      "quantity": 10
+  },
+  {
+      "name": "Banana",
+      "color": "Yellow",
+      "quantity": 20
+  },
+  {
+      "name": "Orange",
+      "color": "Orange",
+      "quantity": 15
+  },
+  {
+      "name": "Mango",
+      "color": "Green",
+      "quantity": 8
+  },
+  {
+      "name": "Grapes",
+      "color": "Purple",
+      "quantity": 50
+  }
+]

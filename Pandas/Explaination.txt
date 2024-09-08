@@ -1,0 +1,5 @@
+What is a Series?
+A Pandas Series is like a column in a table.   Series == Column
+
+It is a one-dimensional array holding data of any type.
+
